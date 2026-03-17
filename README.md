@@ -21,10 +21,10 @@ Developed a chatbot that:
 
 4. maintains conversation memory for follow-up queries
 
-Tech Stack
+Tech Stack:
 Python, LangChain, OpenAI, SQL (SQLite), Agentic Workflows
 
-Key Features
+Key Features:
 
 1. SQL-powered order retrieval
 
@@ -36,7 +36,7 @@ Key Features
 
 safe response validation
 
-Files
+Files:
 
 Colab Notebook: full implementation
 
