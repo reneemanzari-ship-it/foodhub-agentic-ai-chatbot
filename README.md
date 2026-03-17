@@ -1,16 +1,16 @@
 # foodhub-agentic-ai-chatbot
 Agentic AI customer support chatbot using LangChain, SQL agent, guardrails, and business presentation
 
-Title
+Title:
 FoodHub Agentic AI Customer Support Chatbot
 
-Overview
+Overview:
 Built an agentic AI chatbot using LangChain, SQL agents, and guardrails to automate customer support queries for a food delivery platform.
 
-Business Problem
+Business Problem:
 Customer support teams face high volumes of repetitive order queries, leading to delays, inconsistent responses, and high operational costs.
 
-Solution
+Solution:
 Developed a chatbot that:
 
 1. retrieves order data using a SQL agent
